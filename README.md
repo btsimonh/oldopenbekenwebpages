@@ -1,3 +1,8 @@
+# NOTE: this repo is old and not maintained.
+Please visit the main fork at 
+https://github.com/OpenBekenIOT/webapp
+
+
 # OpenBekenIOT Web App
 
 This repo publishes a simple javascript webb app to
